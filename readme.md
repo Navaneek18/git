@@ -1,4 +1,4 @@
 # Git Course 
 training video 
-# branch change  to git add .feature 
-# this is from bug 
+# branch created from bug branch 
+# this is a new bug branch 
